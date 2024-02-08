@@ -52,4 +52,4 @@ export default App;
 
 
 
-© 2024 Desarrollado por [Tu Nombre o Equipo]
+© 2024 Desarrollado por Marc C. Cuenca
